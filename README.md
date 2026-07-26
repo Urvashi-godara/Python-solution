@@ -27,3 +27,5 @@ This repository contains my Python practice solutions from basic to advanced con
 
 ## Progress
 - Print Hello World
+- comment a line
+- Input and Output
