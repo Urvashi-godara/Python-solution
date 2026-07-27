@@ -29,3 +29,5 @@ This repository contains my Python practice solutions from basic to advanced con
 - Print Hello World
 - comment a line
 - Input and Output
+- Concatenate integer
+- Type conversion
