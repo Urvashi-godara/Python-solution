@@ -32,3 +32,4 @@ This repository contains my Python practice solutions from basic to advanced con
 - Concatenate integer
 - Type conversion
 - Operators
+- Conditional Statement
